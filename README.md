@@ -29,7 +29,7 @@ Each folder contains everything needed to run the sketch, including a `data` fol
 
 ### Wander  
 An original 2D platformer game where you race against the clock to reach the end of the level.  
-Gravity plays a major role in the movement and platforming mechanics.
+Gravity plays a major role in the movement and platforming mechanics.  
 **Controls:** Use the mouse as a sword to break obstacles, the arrow keys to move, and the space key to jump
 **Goal:** Reach the goal before time runs out
 
@@ -59,5 +59,5 @@ A simple version of the classic Space Invaders game.
 ---
 
 ### Recursion Art  
-Not a game, but a visual project that generates recursive patterns that I find cool.
+Not a game, but a visual project that generates recursive patterns that I find cool.  
 **Controls:** Navigate the screen with your mouse
