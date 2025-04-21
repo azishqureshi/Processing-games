@@ -2,7 +2,7 @@
 
 This repository contains a collection of games I created using **Processing 4**. Each game is organized in its own folder.
 
-These games were made for fun and as a way for me to practice programming and game design. Some are recreations of classics, while others are original projects that explore different mechanics and ideas.
+These games were made by me to practice programming and game design. Some are recreations of classics, while others are original projects that explore different mechanics and ideas.
 
 ---
 
