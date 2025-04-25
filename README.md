@@ -1,4 +1,4 @@
-# Processing games - Azish Qureshi
+# Processing games
 
 This repository contains a collection of games I created using **Processing 4**. Each game is organized in its own folder.
 
